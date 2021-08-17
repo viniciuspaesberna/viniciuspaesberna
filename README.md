@@ -19,7 +19,7 @@
   
 <br>
 
-<p>🌐 "The journey of a thousand miles begins with one stepd" - I dont know who said that but Ive always heard it from my grandmother</p>
+<p>🌐 "A student looking for adventures in the world of programming." - I dont know who said that but Ive always heard it from a beggar</p>
 
 <br>
 
