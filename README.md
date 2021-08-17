@@ -15,7 +15,7 @@
 
 <br>
 
-<p>☎️ You can talk to me around here: <a href='mailto:joaonininho.twt@gmail.com?Subject=Título%20da%20mensagem"'>joaonininho.twt@gmail.com <a/></p>
+<p>☎️ You can talk to me around here: <a href='mailto:vini_berna2.0@hotmail.com?Subject=Título%20da%20mensagem"'>vini_berna2.0@hotmail.com <a/></p>
   
 <br>
 
@@ -24,8 +24,8 @@
 <br>
 
 <div>
-  <a href="https://github.com/JoaoMarcelo-J">
-<img max-width="50%" height="150px" src="https://github-readme-stats.vercel.app/api?username=JoaoMarcelo-J&show_icons=true&theme=react&include_all_commits=true&count_private=true"/>
-<img max-width="50%" height="150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JoaoMarcelo-J&layout=compact&langs_count=16&theme=react"/>
+  <a href="https://github.com/HaloSara">
+<img max-width="50%" height="150px" src="https://github-readme-stats.vercel.app/api?username=HaloSara121&show_icons=true&theme=react&include_all_commits=true&count_private=true"/>
+<img max-width="50%" height="150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=HaloSara121&layout=compact&langs_count=16&theme=react"/>
   </a>                                                                                                                                
 </div>
