@@ -19,7 +19,7 @@
   
 <br>
 
-<p>🌐 "if your life doesn't make sense, make sense." - I dont know who said that but Ive always heard it from a beggar</p>
+<p>🌐 "if your life doesn't make sense, make your sense." - I dont know who said that but Ive always heard it from a beggar</p>
 
 <br>
 
