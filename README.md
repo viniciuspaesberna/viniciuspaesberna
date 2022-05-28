@@ -15,7 +15,7 @@
 
 <br>
 
-<p>☎️ You can talk to me around here: <a href='mailto:vini_berna2.0@hotmail.com?Subject=Título%20da%20mensagem"'>vini_berna2.0@hotmail.com <a/></p>
+<p>☎️ You can talk to me around here: <a href='mailto:viniciusberna.contato@gmail.com?Subject=Título%20da%20mensagem"'>vini_berna2.0@hotmail.com <a/></p>
   
 <br>
 
