@@ -19,7 +19,7 @@
   
 <br>
 
-<p>🌐 "if your life doesn't make sense, code your sense." - I dont know who said that but Ive always heard it from a big friend.</p>
+<p>🌐 "if your life doesn't make sense, code your sense." - I dont know who said that but Ive always heard it from a great friend.</p>
 
 <br>
 
