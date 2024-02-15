@@ -4,22 +4,34 @@
 
 <br>
 
-<p>💻 this is the page of a technology lover ❤️ and web developer in his spare time (all the time)  </p>
+<p>💻 This is the page of a technology lover ❤️ and full-stack web developer</p>
 
 
 <br>
 
 > <h2>🚀 About </h2>
 
-<p>🎒 Student at Rocketseat 🚀 Ignite 🔥 React ✨</p>
+<p>
+  💻 I am a technology enthusiast and a Full-Stack developer with a passion for turning ideas into functional and interactive projects. Although my professional career is still in its early stages, I have a very solid foundation in many technologies and many challenging personal projects, which demonstrate my capability and dedication in the area.
+</p>
 
 <br>
 
-<p>☎️ You can talk to me around here: <a href='mailto:viniciusberna.contato@gmail.com?Subject=Título%20da%20mensagem"'>vini_berna2.0@hotmail.com <a/></p>
+<img src="https://skillicons.dev/icons?i=react,nextjs,nodejs,express,prisma,docker,postgres" alt="skill-icon">
+
+<br>
+<P>
+  Would be nice if you take a look on my portfolio
+<a href="https://viniciuspaesberna.vercel.app">here<a/>
+</P>
+
+<br>
+
+<p>☎️ You can talk to me around here: <a href='mailto:viniciusberna.contato@gmail.com?Subject=emailFromGithub"'>viniciusberna.contato@gmail.com <a/></p>
   
 <br>
 
-<p>🌐 "if your life doesn't make sense, code your sense." - I dont know who said that but Ive always heard it from a great friend.</p>
+<p>🌐 "If your life doesn't make sense, code your sense." - I dont know who said that, but I've always heard that from a great friend.</p>
 
 <br>
 
