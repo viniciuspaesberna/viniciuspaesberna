@@ -39,7 +39,7 @@
 
 <div>
   <a href="https://github.com/HaloSara">
-<img max-width="50%" height="150px" src="https://github-readme-stats.vercel.app/api?username=HaloSara121&show_icons=true&theme=react&include_all_commits=true&count_private=true"/>
-<img max-width="50%" height="150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=HaloSara121&layout=compact&langs_count=16&theme=react"/>
+<img max-width="50%" height="150px" src="https://github-readme-stats.vercel.app/api?username=viniciuspaesberna&show_icons=true&theme=react&include_all_commits=true&count_private=true"/>
+<img max-width="50%" height="150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=viniciuspaesberna&layout=compact&langs_count=16&theme=react"/>
   </a>                                                                                                                                
 </div>
