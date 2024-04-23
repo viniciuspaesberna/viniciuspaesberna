@@ -29,7 +29,7 @@
 
 <br>
 
-<p>☎️ You can talk to me around here: <a href='mailto:viniciusberna.contato@gmail.com?Subject=emailFromGithub"'>viniciusberna.contato@gmail.com <a/></p>
+<p>☎️ You can talk to me around here: <a href='mailto:viniciuspaesberna@gmail.com?Subject=emailFromGithub"'>viniciuspaesberna@gmail.com <a/></p>
   
 <br>
 
