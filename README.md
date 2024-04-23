@@ -6,7 +6,6 @@
 
 <p>💻 This is the page of a technology lover ❤️ and full-stack web developer</p>
 
-
 <br>
 <br>
 <br>
@@ -27,10 +26,14 @@
 <a href="https://viniciuspaesberna.vercel.app">here<a/>
 </P>
 
+[![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white)](https://viniciuspaesberna.vercel.app)
+
 <br>
 
 <p>☎️ You can talk to me around here: <a href='mailto:viniciuspaesberna@gmail.com?Subject=emailFromGithub"'>viniciuspaesberna@gmail.com <a/></p>
-  
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vinicius-paes-berna/)
+
 <br>
 
 <p>🌐 "If your life doesn't make sense, code your sense." - I dont know who said that, but I've always heard that from a great friend.</p>
